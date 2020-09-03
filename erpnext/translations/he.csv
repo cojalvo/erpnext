@@ -318,7 +318,7 @@ Checkout,תשלום,
 Chemical,כימי,
 Cheque,המחאה,
 Cheque/Reference No,המחאה/מספר אסמכתא,
-Cheques and Deposits incorrectly cleared,ההמחאות והפקדונות נסלקו באופן שגוי
+Cheques and Deposits incorrectly cleared,ההמחאות והפקדונות נסלקו באופן שגוי,
 Child Item should not be a Product Bundle. Please remove item `{0}` and save,לא ניתן להזין תת-פריט בחבילת המוצרים אנא הסר את פריט {0} ושמור,
 Child nodes can be only created under 'Group' type nodes,ניתן ליצור תת קבוצות אך ורק תחת 'קבוצות',
 Child warehouse exists for this warehouse. You can not delete this warehouse.,לא ניתן למחוק מחסן זה כיוון שקיים תחתיו תת-מחסן., 
