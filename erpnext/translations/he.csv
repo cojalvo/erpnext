@@ -1,4 +1,4 @@
-"""Is Fixed Asset"" cannot be unchecked, as Asset record exists against the item","האם מדובר ברכוש קבוע" לא יכול להיבדק כרשומות נכס למול פריט",
+"""Is Fixed Asset"" cannot be unchecked, as Asset record exists against the item","&quot;האם רכוש קבוע&quot; לא יכול להיות מסומן, כמו שיא נכסים קיים כנגד הפריט",
 'Based On' and 'Group By' can not be same,הביטויים 'מבוסס על' ו'קבץ לפי' אינם יכולים להיות זהים,
 'Days Since Last Order' must be greater than or equal to zero,הקטגוריה 'מספר הימים מההזמנה האחרונה' חייבת להיות גדולה או שווה לאפס,
 'Entries' cannot be empty,הקטגוריה 'רשומות' לא יכולה להיות ריקה,
