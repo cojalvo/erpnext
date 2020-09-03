@@ -5,7 +5,7 @@
 'From Date' is required,הקטגוריה 'מתאריך' נדרשת,
 'From Date' must be after 'To Date',התאריך בקטגוריה 'מתאריך' חייב להיות לאחר התאריך בקטגוריה 'עד תאריך',
 'Has Serial No' can not be 'Yes' for non-stock item,הקטגוריה 'בעל מספר סידורי' לא יכולה להיות 'כן' בעבור פריט שאינו במלאי,
-'Opening','פתיחה'
+'Opening','פתיחה',
 'To Case No.' cannot be less than 'From Case No.','אל מספר פנייה' לא יכול להיות קטן 'ממספר פנייה',
 'To Date' is required,הקטגוריה 'עד תאריך' נדרשת,
 'Total','סך הכל',
@@ -25,7 +25,7 @@ Academic Year,שנה אקדמית,
 Accepted + Rejected Qty must be equal to Received quantity for Item {0},כמות הפריטים שהתקבלו ונדחו צריכה להיות שווה לכמות שהתקבלה עבור פריט {0}, 
 Access Token,מפתח גישה,
 Account,חשבון,
-Account Pay Only,חשבון לתשלום בלבד
+Account Pay Only,חשבון לתשלום בלבד,
 Account Type,סוג החשבון,
 Account Type for {0} must be {1},סוג החשבון עבור {0} חייב להיות {1},
 "Account balance already in Credit, you are not allowed to set 'Balance Must Be' as 'Debit'","יתרת החשבון הינה כבר באשראי, אינך מורשה להגדיר את הקטגוריה 'על יתרה להיות' תחת הערך 'חיוב'",
