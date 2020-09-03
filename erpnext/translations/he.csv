@@ -1203,7 +1203,7 @@ Price List must be applicable for Buying or Selling,מחיר המחירון חי
 Price List not found or disabled,מחיר המחירון לא נמצא או נחסם,
 Pricing,תמחור,
 Pricing Rule,כלל תמחור,
-"Pricing Rule is first selected based on 'Apply On' field, which can be Item, Item Group or Brand."כלל התמחור נבחר קודם כל על פי השדה 'החל על' שיכול להיות או פריט, קבוצת פריטים או מותג",
+"Pricing Rule is first selected based on 'Apply On' field, which can be Item, Item Group or Brand."כלל התמחור נבחר קודם כל על פי השדה החל על שיכול להיות או פריט, קבוצת פריטים או מותג",
 "Pricing Rule is made to overwrite Price List / define discount percentage, based on some criteria.","כלל תמחור נוצר על מנת להחליף את המחירון / להגדיר אחוז הנחה, מבוסס על קריטריונים זהים",
 Pricing Rules are further filtered based on quantity.,כללי תמחור מסוננים בנוסף על פי כמות.,
 Primary,עיקרי,
