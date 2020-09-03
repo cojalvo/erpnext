@@ -1716,7 +1716,7 @@ Too many columns. Export the report and print it using a spreadsheet application
 Tools,כלים,
 Total Absent,סך הכל חסר,
 Total Achieved,סך הכל הושלם,
-Total Actual,"הסך בפועל,
+Total Actual,"סך הכל בפועל",
 Total Amount,הכמות הכוללת,
 Total Commission,סך העמלה,
 Total Debit must be equal to Total Credit. The difference is {0},סך החיוב הכולל חייב להיות שווה לסך האשראי. ההבדל כרגע הוא {0},
