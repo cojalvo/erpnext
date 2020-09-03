@@ -6,7 +6,7 @@
 'From Date' must be after 'To Date',התאריך בקטגוריה 'מתאריך' חייב להיות לאחר התאריך בקטגוריה 'עד תאריך',
 'Has Serial No' can not be 'Yes' for non-stock item,הקטגוריה 'בעל מספר סידורי' לא יכולה להיות 'כן' בעבור פריט שאינו במלאי,
 'Opening','פתיחה'
-'To Case No.' cannot be less than 'From Case No.','מספר התיק' לא יכול להיות קטן מהקטגוריה 'ממספר תיק',
+'To Case No.' cannot be less than 'From Case No.','אל מספר פנייה' לא יכול להיות קטן 'ממספר פנייה',
 'To Date' is required,הקטגוריה 'עד תאריך' נדרשת,
 'Total','סך הכל',
 'Update Stock' can not be checked because items are not delivered via {0},לא ניתן לבדוק את קטגורית 'עדכון המלאי' כיוון שהפריטים לא מועברים באמצעות {0},
