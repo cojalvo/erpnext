@@ -33,7 +33,7 @@ Account Type for {0} must be {1},סוג החשבון עבור {0} חייב לה�
 Account with child nodes cannot be converted to ledger,לא ניתן להמיר חשבון עם תתי-חשבונות ליומן חשבונות,
 Account with child nodes cannot be set as ledger,לא ניתן להגדיר חשבון בעל תתי-חשבונות כיומן חשבונות,
 Account with existing transaction can not be converted to group.,לא ניתן להמיר חשבון עם עסקה קיימת לקבוצה.,
-Account with existing transaction can not be deleted,לא ניתן למחוק חשבון עם עסקה קיימת
+Account with existing transaction can not be deleted,לא ניתן למחוק חשבון עם עסקה קיימת,
 Account with existing transaction cannot be converted to ledger,לא ניתן להמיר חשבון ליומן חשבונות אם קיימת בו עסקה,
 Account {0} does not belong to company: {1},חשבון {0} אינו שייך לחברה: {1},
 Account {0} does not belongs to company {1},חשבון {0} אינו שייך לחברת {1},
