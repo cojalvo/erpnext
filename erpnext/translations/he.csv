@@ -71,8 +71,8 @@ Action,פעולה,
 Actions,פעולות,
 Active,פעיל,
 Active Leads / Customers,לידים פעילים / לקוחות פעילים,
-Activity Cost exists for Employee {0} against Activity Type - {1},קיימת עלות פעילות עבור העובד {0} עבור פעילות מסוג {1}
-Activity Cost per Employee,עלות הפעילות למול עובד
+Activity Cost exists for Employee {0} against Activity Type - {1},{קיימת עלות פעילות עבור העובד {0} עבור פעילות מסוג {1,
+Activity Cost per Employee,עלות הפעילות למול עובד,
 Activity Type,סוג הפעילות,
 Actual Qty,כמות בפועל,
 Actual Qty is mandatory,יש למלא את הקטגוריה כמות בפועל ,
