@@ -25,7 +25,7 @@ Academic Year,שנה אקדמית,
 Accepted + Rejected Qty must be equal to Received quantity for Item {0},כמות הפריטים שהתקבלו ונדחו צריכה להיות שווה לכמות שהתקבלה עבור פריט {0}, 
 Access Token,מפתח גישה,
 Account,חשבון,
-Account Pay Only,חשבון לתשלום בלבד
+Account Pay Only,חשבון לתשלום בלבד,
 Account Type,סוג החשבון,
 Account Type for {0} must be {1},סוג החשבון עבור {0} חייב להיות {1},
 "Account balance already in Credit, you are not allowed to set 'Balance Must Be' as 'Debit'","יתרת החשבון הינה כבר באשראי, אינך מורשה להגדיר את הקטגוריה 'על יתרה להיות' תחת הערך 'חיוב'",
