@@ -155,7 +155,7 @@ Appraisal {0} created for Employee {1} in the given date range,הערכה {0} נ
 Apprentice,מתמחה,
 Approval Status,סטטוס אישור,
 Approval Status must be 'Approved' or 'Rejected','סטטוס האישור חייב להיות 'מאושר' או 'נדחה,
-Approve, לאשר
+Approve,לאשר,
 Approving Role cannot be same as role the rule is Applicable To,אישור התפקיד לא יכול להתבצע בידי בעל תפקיד זהה ,
 Approving User cannot be same as user the rule is Applicable To,אישור משתמש לא יכול להתבצע בידי משתמש זהה לו,
 As On Date,כמו בתאריך,
