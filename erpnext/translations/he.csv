@@ -325,7 +325,7 @@ Child warehouse exists for this warehouse. You can not delete this warehouse.,ל
 Circular Reference Error,שגיאת הפניה מעגלית,
 City,עיר,
 City/Town,עיר/יישוב,
-Clearance Date,תאריך סליקה
+Clearance Date,תאריך סליקה,
 Clearance Date not mentioned,חסר תאריך סליקה,
 Clearance Date updated,תאריך סליקה עודכן,
 Client,לקוח,
@@ -347,10 +347,10 @@ Company (not Customer or Supplier) master.,בעל חברה (לא לקוח או �
 Company Abbreviation,קיצור חברה,
 Company Name,שם החברה,
 Company Name cannot be Company,"'שם החברה לא יכול להיות 'חברה",
-Company {0} does not exist,החברה {0} לא קיימת
+Company {0} does not exist,החברה {0} לא קיימת,
 Compensatory Off,פיצוי,
 Completed Qty can not be greater than 'Qty to Manufacture', הכמות שהושלמה לא יכולה להיות גדולה מ'כמות לייצור',
-Completion Date,תאריך יעד
+Completion Date,תאריך יעד,
 Computer,מחשב,
 Condition,מצב,
 Confirmed orders from Customers.,הזמנות מאושרות מלקוחות.,
@@ -430,7 +430,7 @@ Customer Name,שם לקוח,
 Customer Service,שירות לקוחות,
 Customer and Supplier,לקוחות וספקים,
 Customer is required,לקוח נדרש,
-Customer required for 'Customerwise Discount',נדרש לקוח לקטגוריה 'הנחות מתואמות ללקוחות'
+Customer required for 'Customerwise Discount',נדרש לקוח לקטגוריה 'הנחות מתואמות ללקוחות',
 Customer {0} does not belong to project {1},לקוח {0} אינו שייכים לפרויקט {1},
 Customizing Forms,התאמה אישית של טפסים,
 Daily Reminders,תזכורות יומיות,
