@@ -1480,8 +1480,8 @@ Selling,מכירה,
 Selling Amount,מחיר מכירה,
 "Selling must be checked, if Applicable For is selected as {0}","מכר חייב להיות מסומן אם מוגדרת כישים ל-{0} {0}",
 Send Now,שלח עכשיו,
-Send SMS,שלח sms
-Send Supplier Emails,שלח מייל לספק
+Send SMS,שלח sms,
+Send Supplier Emails,שלח מייל לספק,
 Send mass SMS to your contacts,שלח הודעת sms לכלל אנשי הקשר שלך,
 Sent,נשלח,
 Serial #,סידורי #,
