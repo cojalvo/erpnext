@@ -321,7 +321,7 @@ Cheque/Reference No,המחאה/מספר אסמכתא
 Cheques and Deposits incorrectly cleared,ההמחאות והפקדונות נסלקו באופן שגוי
 Child Item should not be a Product Bundle. Please remove item `{0}` and save,לא ניתן להזין תת-פריט בחבילת המוצרים אנא הסר את פריט {0} ושמור
 Child nodes can be only created under 'Group' type nodes,ניתן ליצור תת קבוצות אך ורק תחת 'קבוצות'
-Child warehouse exists for this warehouse. You can not delete this warehouse.,לא ניתן למחוק מחסן זה כיוון שקיים תחתיו תת-מחסן., 
+Child warehouse exists for this warehouse. You can not delete this warehouse.,לא ניתן למחוק מחסן זה כיוון שקיים תחתיו תת-מחסן.
 Circular Reference Error,שגיאת הפניה מעגלית
 City,עיר
 City/Town,עיר/יישוב
@@ -332,7 +332,7 @@ Client,לקוח
 Close Balance Sheet and book Profit or Loss.,סגור את מאזן הרווחים וההפסדים.
 Closed,סגור
 Closed order cannot be cancelled. Unclose to cancel.,"לא ניתן לבטל הזמנה סגורה, פתחו אותה מחדש על מנת לבטלה."
-Closing (Cr),סגירה (שער חליפין), 
+Closing (Cr),סגירה (שער חליפין)
 Closing (Dr),סגירה (קבלת פיקדון)
 Closing Account {0} must be of type Liability / Equity,סגירת חשבון {0} חייבת להיות מסוג חבות/הון עצמי
 Code,קוד
@@ -758,7 +758,7 @@ Item Tax Row {0} must have account of type Tax or Income or Expense or Chargeabl
 Item Variant {0} already exists with same attributes,גרסת הפריט {0} כבר קיימת עם מאפיינים זהים
 Item Variants,גרסאות פריט
 Item has variants.,יש לפריט זה מספר גרסאות.
-Item must be added using 'Get Items from Purchase Receipts' button,על מנת להוסיף את הפריט יש ללחוץ על 'קבל פריטים על פי קבלות רכישה', 
+Item must be added using 'Get Items from Purchase Receipts' button,על מנת להוסיף את הפריט יש ללחוץ על 'קבל פריטים על פי קבלות רכישה'
 Item or Warehouse for row {0} does not match Material Request,אין התאמה בין פריט או מחסן בשורה {0} לבין החומר המבוקש
 Item valuation rate is recalculated considering landed cost voucher amount,ערך הפריט חושב מחדש על פי ההנחה מכמות השובר
 Item variant {0} exists with same attributes,גרסאות הפריט {0} בעלות מאפיינים זהים
@@ -841,7 +841,7 @@ Maintenance Schedule is not generated for all the items. Please click on 'Genera
 Maintenance Schedule {0} must be cancelled before cancelling this Sales Order,יש לבטל לוח זמנים לתחזוקת {0} לפני ביטול הזמנה זו
 Maintenance User,משתמש תחזוקה
 Maintenance Visit,בקרת תחזוקה
-Maintenance Visit {0} must be cancelled before cancelling this Sales Order,ויש לבטל את בקרת התחזוקה {0} לפני ביטול הזמנה זו, 
+Maintenance Visit {0} must be cancelled before cancelling this Sales Order,ויש לבטל את בקרת התחזוקה {0} לפני ביטול הזמנה זו
 Maintenance start date can not be before delivery date for Serial No {0},תאריך התחלת התחזוקה לא יכול להיות לפני מועד המשלוח למספר הסידורי {0}
 Make,צור
 Making Stock Entries,יצירת רשומות מלאי
@@ -2307,8 +2307,8 @@ Default Payment Request Message,הודעת בקשת תשלום כברירת מח
 Payment Reconciliation,השלמת תשלום
 Receivable / Payable Account,חשבון לחיוב / לתשלום
 Bank / Cash Account,חשבון בנק / חשבון מזומנים
-From Invoice Date,מתאריך החשבונית, 
-To Invoice Date,עד תאריך החשבונית, 
+From Invoice Date,מתאריך החשבונית
+To Invoice Date,עד תאריך החשבונית
 Minimum Invoice Amount,סכום מינימלי לחשבונית
 Maximum Invoice Amount,סכום מרבי לחשבונית
 Get Unreconciled Entries,קבל רשומות שלא הושלמו
@@ -2740,7 +2740,7 @@ Key Performance Area,אזורי ביצוע עיקריים
 Leave Application,בקשת חופשה
 Attendance Date,תאריך נוכחות
 Leave Allocation,הקצאת חופשות
-Leave Block List,רשימת חופשות מוגבלות, 
+Leave Block List,רשימת חופשות מוגבלות
 Days for which Holidays are blocked for this department.,הימים בהם ימי חג מוגבלים למחלקה זו.
 Leave Approvers,מאשרי החופשות
 Leave Approver,מאשר חופשות
@@ -3033,7 +3033,7 @@ Net Hour Rate,תעריף לשעה נטו
 Workstation Working Hour,שעות פעילות של תחנת העבודה
 Website URL,כתובת אתר אינטרנט
 Homepage,דף הבית
-Tag Line,סלוגן פרסומי, 
+Tag Line,סלוגן פרסומי
 Company Tagline for website homepage,סלוגן פרסומי של החברה לעמוד הבית של האתר
 Company Description for website homepage,תיאור החברה עבור עמוד הבית של האתר
 Products to be shown on website homepage,מוצרים שיוצגו בעמוד הבית של האתר
