@@ -3432,7 +3432,7 @@ Gross Weight,משקל ברוטו
 The gross weight of the package. Usually net weight + packaging material weight. (for print),המשקל הכולל של החבילה. לרוב יחושב כמשקל הנטו + משקל חומרי אריזה. (להדפסה)
 Gross Weight UOM,משקל ברוטו של יחידת המידה
 Packing Slip Item,תלוש אריזה של הפריט
-DN Detail,פרט DN, פרטי מספר דיגיטלי
+DN Detail,DN פרטי מספר דיגיטלי
 Material Transfer for Manufacture,העברת חומרים לייצור
 Parent Warehouse,מחסן אב
 Price List Master,אשף מחיר המחירון
