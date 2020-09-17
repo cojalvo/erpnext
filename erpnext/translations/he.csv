@@ -51,7 +51,7 @@ Account: {0} with currency: {1} can not be selected,לא ניתן לבחור א�
 Accountant,חשב
 Accounting,חשבונאות
 Accounting Entry for Stock,רשומה חשבונאית למלאי
-Accounting Entry for {0}: {1} can only be made in currency: {2},ניתן להפיק רשומה חשבונאית ל-{0}: {1} רק בעבור מטבע {2}, 
+Accounting Entry for {0}: {1} can only be made in currency: {2},ניתן להפיק רשומה חשבונאית ל-{0}: {1} רק בעבור מטבע {2}
 Accounting Ledger,ספר חשבונות
 Accounting journal entries.,רשומות יומן החשבונות
 Accounts,חשבונות
